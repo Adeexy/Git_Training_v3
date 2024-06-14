@@ -1,1 +1,2 @@
 Test
+This is a stash test class, change in file
